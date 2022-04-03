@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ragheb-work.github.io/ping-coming-soon-page-master/">
+  <a href="https://ragheb-work.github.io/Tracking-info/">
     <img src="images/logo.svg" alt="Logo" width="60" height="60">
   </a>
    <h3 align="center">Live WebSite</h3>
@@ -9,7 +9,7 @@
     <a href="https://github.com/Ragheb-work/Tracking-info/find/main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ragheb-work.github.io/Tracking-info//">View Demo</a>
+    <a href="https://ragheb-work.github.io/Tracking-info/">View Demo</a>
     ·
     <a href="https://github.com/Ragheb-work/Tracking-info/issues">Report Bug</a>
     ·
