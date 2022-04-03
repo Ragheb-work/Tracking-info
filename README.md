@@ -20,7 +20,7 @@
 ## About The Project
 
 
-![](design/desktop-design.jpg)
+![](design/desktop-preview.jpg)
 
 
 ## Built With
